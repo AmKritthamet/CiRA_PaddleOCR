@@ -3,3 +3,6 @@ Download ncnn from: https://github.com/Tencent/ncnn
 
 #Step 2
 Place it at "cira_plugin_example/resources/model/ncnn
+
+#Step 3
+Change path in CMakeLists to match you directory
